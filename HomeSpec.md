@@ -9,9 +9,9 @@ Heatpump Compatible Cylinder
 
 
 
-| Item  |   |   |   |   |
+| Item  | 1.   | 2  | 3  |   |
 |---|---|---|---|---|
-| Heating  |   |   |   |   |
+| Heating  | Underfloor Heating  |  Heating Pump Cylinder |   |   |
 | Cooling  |   |   |   |   |
 |   |   |   |   |   |
 
