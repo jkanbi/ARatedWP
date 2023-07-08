@@ -9,5 +9,12 @@ Heatpump Compatible Cylinder
 
 
 
+| Item  |   |   |   |   |
+|---|---|---|---|---|
+| Heating  |   |   |   |   |
+| Cooling  |   |   |   |   |
+|   |   |   |   |   |
+
+
 
 
