@@ -10,11 +10,11 @@ We will start with the EPC. The EPC (Energy Performance Certificate) is two metr
 
 
 
-![image](https://arated.com/wp-content/uploads/2023/06/epc-a-rated-1.jpg)
+![image](https://raw.githubusercontent.com/jkanbi/ARatedWP/main/IMAGES/epc-energy-rating.jpg)
 #### 2. The Environmental impact of the property</span>
 
 
-![image](https://arated.com/wp-content/uploads/2023/06/epc-environmental-impact.jpg)
+![image](https://raw.githubusercontent.com/jkanbi/ARatedWP/main/IMAGES/epc-environmental-impact.jpg)
 
 The first is mostly to do with energy efficiency, and the second the CO2 production of the property.
 
