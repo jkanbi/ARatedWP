@@ -10,7 +10,7 @@
 |4. Windows/Doors||
 |5. Plumbing||
 |6. Electrical||
-|7. HVAC| [Link](https://arated.com/home-spec/#1heating-system) |
+|7. HVAC| [Link](https://arated.com/home-spec/#heating-system) |
 |The Finishes||
 |8. Siding / Gutter / Soffit / Fasia||
 |9. Drywall & Paint||
@@ -19,7 +19,7 @@
 
 
 
-## 7. Heating System
+## Heating System
 Under Floorheating
 Heatpump Compatible Cylinder
 
