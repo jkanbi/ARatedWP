@@ -1,6 +1,25 @@
 # Home Spec - ALL
 
-## 1.Heating System
+| Item | Link |  
+|---|--- |
+|The Structure: ||
+|1. Foundation||
+|2. Frame||
+|3. Roof||
+|The Functional||
+|4. Windows/Doors||
+|5. Plumbing||
+|6. Electrical||
+|7. HVAC| [Link](https://arated.com/home-spec/#1heating-system) |
+|The Finishes||
+|8. Siding / Gutter / Soffit / Fasia||
+|9. Drywall & Paint||
+|10. Interior Finish Carpentry||
+|11. Finished Flooring||
+
+
+
+## 7. Heating System
 Under Floorheating
 Heatpump Compatible Cylinder
 
