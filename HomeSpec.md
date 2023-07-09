@@ -9,8 +9,8 @@
 |The Functional||
 |4. Windows/Doors||
 |5. Plumbing||
-|6. Electrical|[Link](https://arated.com/home-spec/#electrical-system)|
-|7. HVAC| [Link](https://arated.com/home-spec/#heating-system) |
+|6. Electrical|[Link](#electrical-system)|
+|7. HVAC| [Link](#heating-system) |
 |The Finishes||
 |8. Siding / Gutter / Soffit / Fasia||
 |9. Drywall & Paint||
