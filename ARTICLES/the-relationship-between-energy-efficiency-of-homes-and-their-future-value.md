@@ -1,4 +1,4 @@
-# The relationship between energy efficiency of homes and their future value<
+# The relationship between energy efficiency of homes and their future value
 In summary in this article explains why you should invest in energy efficiency improvements for your home and why it affects home values. Please note some of the calculations are approximate and are base on information that is publicly out there. Each and everyones actual payback may be different.
 
 ### Energy Performance Certificate.
