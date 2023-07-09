@@ -23,7 +23,7 @@
 Fusebox using metal box with built in remote monitoring
 Lighting, all switches to use Zigbee enable modules.
 
-## <a name="heating-system"></a> Heating System
+## Heating System
 Under Floorheating
 Heatpump Compatible Cylinder
 
