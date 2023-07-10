@@ -9,8 +9,8 @@
 |The Functional||
 |4. Windows/Doors||
 |5. Plumbing||
-|6. Electrical|[Link](#electrical-system)|
-|7. HVAC| [Link](#heating-system) |
+|6. Electrical|[Link](#user-content-electrical-system)|
+|7. HVAC| [Link](#user-content-heating-system) |
 |The Finishes||
 |8. Siding / Gutter / Soffit / Fasia||
 |9. Drywall & Paint||
